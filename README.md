@@ -1,11 +1,5 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Halo, semua! 
-</h1>
-
-Perkenalkan nama saya **Ayunita Putri**.\
-Saya adalah Mahasiswi di [Universitas Gunadarma](https://www.gunadarma.ac.id/) dengan prodi Sistem Informasi Semester 5.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/)ku ya.
+**Ayunita Putri**.\
+[Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/)ku ya.
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 <!-- Contacts -->
