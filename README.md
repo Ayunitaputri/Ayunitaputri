@@ -1,5 +1,5 @@
 **Ayunita Putri**.\
-[Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/)ku ya.
+[Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/).
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 <!-- Contacts -->
