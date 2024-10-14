@@ -1,4 +1,5 @@
 **Ayunita Putri**.\
+Portofolio : https://ayns-portfolio.vercel.app/
 [Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/).
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
