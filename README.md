@@ -1,9 +1,9 @@
-**Ayunita Putri**.\
-Portofolio : https://ayns-portfolio.vercel.app/
-<br>
-[Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/).
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> https://ayns-portfolio.vercel.app/
+**Ayunita Putri**.
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
+
+##  Connect With Me
+[Linkedin](https://www.linkedin.com/in/ayunita-putri-25322a255/).
 <!-- Contacts -->
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/Ayums#0479)
 
