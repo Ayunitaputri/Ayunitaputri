@@ -1,4 +1,4 @@
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> https://ayns-portfolio.vercel.app/
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> https://ayns-portfolio.vercel.app
 **Ayunita Putri**.
 
 
